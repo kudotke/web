@@ -1,6 +1,6 @@
 title: HyG
 brief-intro: Front-end Dev Engineer
-baseurl: "/web" # the subpath of your site, e.g. /blog
+baseurl: "/web"
 url:
 
 permalink: /:year/:month/:day/:title/
