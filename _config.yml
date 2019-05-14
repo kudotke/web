@@ -1,6 +1,6 @@
 title: ku ke
 brief-intro: Front-end Dev Engineer
-baseurl: "/web"
+baseurl:
 url:
 
 permalink: /:year/:month/:day/:title/
