@@ -17,7 +17,7 @@ dribbble_username:
 
 description_footer: 本站记录我前端之旅的沿途风景！
 
-remote_theme: "Gaohaoyang/gaohaoyang.github.io"
+remote_theme: "kudotke/theme"
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
